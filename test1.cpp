@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 void foo()
 {
@@ -9,3 +9,4 @@ int main()
 {
 	foo();
 }
+*/
